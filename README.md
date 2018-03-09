@@ -8,9 +8,9 @@ RMR is the name of utility token which can be used on this Rimar blockchain plat
 
 RMR is targeted for below uses for initial which can be extended for more in future.
 
-Hedge funds 
-Pensions 
-Government run welfare schemes 
-Remittance
+Hedge funds   
+Pensions   
+Government run welfare schemes   
+Remittance  
 
 
